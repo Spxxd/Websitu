@@ -1,2 +1,0 @@
-Header set Access-Control-Allow-Origin "https://www.roblox.com"
-Header add Access-Control-Allow-Credentials "true"
