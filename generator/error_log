@@ -1,0 +1,14 @@
+[25-Oct-2021 10:49:12 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vwvroblox/public_html/profilegenerator/profile.php on line 27
+[25-Oct-2021 10:49:12 UTC] PHP Warning:  file_get_contents(https://api.roblox.com/users/get-by-username?username=ROBLOX): failed to open stream: no suitable wrapper could be found in /home/vwvroblox/public_html/profilegenerator/profile.php on line 27
+[25-Oct-2021 10:49:13 UTC] PHP Warning:  file_get_contents(genfile/setupphp): failed to open stream: No such file or directory in /home/vwvroblox/public_html/profilegenerator/profile.php on line 61
+[25-Oct-2021 10:49:56 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vwvroblox/public_html/profilegenerator/profile.php on line 27
+[25-Oct-2021 10:49:56 UTC] PHP Warning:  file_get_contents(https://api.roblox.com/users/get-by-username?username=ROBLOX): failed to open stream: no suitable wrapper could be found in /home/vwvroblox/public_html/profilegenerator/profile.php on line 27
+[25-Oct-2021 11:02:06 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/vwvroblox/public_html/profilegenerator/profile.php on line 26
+[25-Oct-2021 11:32:58 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/vwvroblox/public_html/generator/profile.php on line 26
+[25-Oct-2021 11:32:59 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/vwvroblox/public_html/generator/profile.php on line 26
+[25-Oct-2021 11:33:08 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/vwvroblox/public_html/generator/profile.php on line 26
+[25-Oct-2021 11:33:18 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/vwvroblox/public_html/generator/profile.php on line 26
+[25-Oct-2021 11:33:19 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/vwvroblox/public_html/generator/profile.php on line 26
+[25-Oct-2021 11:34:39 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/vwvroblox/public_html/generator/profile.php on line 26
+[25-Oct-2021 12:11:51 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/vwvroblox/public_html/generator/profile.php on line 26
+[25-Oct-2021 12:39:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/vwvroblox/public_html/generator/profile.php on line 309
